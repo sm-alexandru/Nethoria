@@ -1,6 +1,6 @@
 # 🎁 Ghid Complet Dropuri Cufere
 
-Acest ghid conține informații detaliate despre toate tipurile de cufere disponibile în joc și recompensele lor.
+Acest ghid conține informații detaliate despre toate tipurile de cufere disponibile în joc și recompensele lor, inclusiv cutiile speciale de eveniment.
 
 ---
 
@@ -189,7 +189,59 @@ Costume ID: 41032(2x), 41034, 41036, 41038, 41040(2x), 41042, 41044, 41046,
 
 ---
 
-## 📊 Sumar Statistici
+## � CUTII VALENTINE'S DAY (ID: 71146, 71147)
+
+> **Notă**: Cutii speciale pentru evenimentul Valentine's Day cu cooldown de 30 minute.
+
+### 💰 Recompense în Yang
+| Șansă | Interval | Recompensă |
+|-------|----------|------------|
+| 14% | 87-100 | 10,000 Yang |
+| 13% | 74-86 | 20,000 Yang |
+| 12% | 62-73 | 30,000 Yang |
+| 11% | 51-61 | 50,000 Yang |
+| 10% | 41-50 | 100,000 Yang |
+
+### 🎒 Recompense cu Iteme
+| Șansă | Interval | Item | Cantitate |
+|-------|----------|------|-----------|
+| 9% | 32-40 | ID 70038 | 1x |
+| 5% | 27-31 | ID 71107 | 1x |
+| 5% | 22-26 | ID 71101 | 5x |
+| 5% | 17-21 | ID 70024 | 1x |
+| 4% | 13-16 | ID 71109 | 1x |
+| 4% | 9-12 | ID 71085 | 1x |
+| 4% | 5-8 | ID 71084 | 1x |
+| 4% | 1-4 | ID 25100 | 1x |
+
+### ⏰ Specificații Tehnice
+
+| Feature | Detalii |
+|---------|---------|
+| **Cooldown** | 30 minute (1800 secunde) |
+| **Utilizări maxime** | 10 utilizări per cutie |
+| **Consum cutie** | Da, după 10 utilizări |
+| **Tip eveniment** | Valentine's Day |
+
+### 📋 Note Importante
+
+- ⏰ **Cooldown de 30 minute** între utilizări
+- 🔄 **Maxim 10 utilizări** per cutie, apoi se consumă automat
+- 💝 **Cutii speciale** pentru evenimentul Valentine's Day
+- 📊 **Logging complet** pentru toate recompensele oferite
+- 🎁 **Distribuția** favorizează recompensele în Yang (60% din total)
+
+### 🔍 Analiza Probabilităților
+
+**Recompense Yang**: 60% (10K-100K Yang)
+**Recompense Iteme**: 40% (iteme diverse utile)
+
+**Cea mai frecventă recompensă**: 10,000 Yang (14%)
+**Cea mai valoroasă recompensă**: 100,000 Yang (10%)
+
+---
+
+## �📊 Sumar Statistici
 
 | Cufăr | Yang | Iteme Rare | Costume | Ultra Rare |
 |-------|------|------------|---------|------------|
@@ -197,6 +249,7 @@ Costume ID: 41032(2x), 41034, 41036, 41038, 41040(2x), 41042, 41044, 41046,
 | 🌪️ **Furtună Nisip** | ❌ | ✅ | ✅ | ✅ |
 | 🎉 **Sărbătoare** | ❌ | ❌ | ✅ | ✅ |
 | 💎 **Topaz** | ❌ | ❌ | ✅ (Condiționat) | ❌ |
+| 💝 **Valentine's Day** | ✅ | ✅ | ❌ | ❌ |
 
 ---
 
